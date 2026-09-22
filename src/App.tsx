@@ -39,7 +39,7 @@ export default function App() {
       title: 'THIKA HEALTH NEXUS',
       category: 'Healthcare Management Platform',
       overview: 'A comprehensive healthcare management platform designed to help patients and healthcare staff manage appointments, digital health records, automated notifications, and clinical administration seamlessly.',
-      url: 'https://thika-health-nexus-635mdjfbm-blairrr.vercel.app/',
+      url: 'https://thika-health-nexus.vercel.app/',
       tabs: [
         { id: 'staff', label: 'Consent Management', detail: 'Real-time patient check-ins & vitals tracking' },
         { id: 'records', label: 'Health Records', detail: 'Encrypted medical history & lab result viewer' },
@@ -51,7 +51,7 @@ export default function App() {
       title: 'SAFEMONEY — SCAM AWARE HUB',
       category: 'Mobile Money Fraud Detection & Awareness',
       overview: 'An AI-powered web platform designed to help users detect mobile money fraud and phishing attempts. Features an automated SMS Scanner that analyzes message text, calculates risk scores, and provides key educational insights.',
-      url: 'https://scam-aware-hub-git-main-blairrr.vercel.app/',
+      url: 'https://scam-aware-hub.vercel.app/',
       tabs: [
         { id: 'scanner', label: 'SMS Scanner', detail: 'AI-powered text analysis and fraud risk scoring' },
         { id: 'report', label: 'Report Portal', detail: 'Community mobile money fraud submission hub' },
