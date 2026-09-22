@@ -75,7 +75,7 @@ export default function App() {
       title: 'PERSONAL PORTFOLIO',
       category: 'Client Branding & Custom Portfolio Design',
       overview: 'A bespoke portfolio website built for a real-world client—an environmental advocate and regenerative agriculture champion. Demonstrates my capability to deliver tailored visual identity, dark forest editorial aesthetics, rich typography, and custom UI components for personal brands.',
-      url: 'https://personal-portfolio-blairrr.vercel.app/',
+      url: 'https://personal-portfolio.vercel.app/', 
       tabs: [
         { id: 'hero', label: 'Client Hero UI', detail: 'Editorial typography layout with location tagging & dual CTAs' },
         { id: 'expertise', label: 'Custom Expertise Grid', detail: 'Tailored breakdown of client impact, advocacy & field skills' },
